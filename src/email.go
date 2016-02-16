@@ -3,9 +3,10 @@ package hello
 import (
     "fmt"
   	"net/http"
-  	"google.golang.org/appengine"
-    "google.golang.org/appengine/log"
-  	"google.golang.org/appengine/mail"
+
+  	// "appengine"
+   //  "appengine/log"
+  	// "appengine/mail"
 )
 
 func init() {
